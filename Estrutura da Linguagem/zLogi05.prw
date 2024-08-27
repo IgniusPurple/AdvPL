@@ -35,9 +35,6 @@ User Function zLogi05()
     // Chamando a Funcao B
     fFuncB()
     
-    // Chamando a Funcao C
-    fFuncC()
-
     // Chamando a Funcao Teste
     fFuncTst()
 
@@ -68,20 +65,8 @@ Static Function fFuncB()
     MsgInfo("Estou na Static Function fFuncB!", "Antencao")
 Return 
 
-/*/{Protheus.doc} fFuncC
-Funcao Auxiliar C
-@author Matheus
-@since 27/06/2024
-@version 1.0
-@type function
-/*/
-
-Static Function fFuncC()
-    MsgInfo("Estou na Static Function fFuncC!", "Antencao")
-Return 
-
 /*/{Protheus.doc} fFuncTst
-Funcao Auxiliar Teste
+Funcao Auxiliar Tst
 @author Matheus
 @since 27/06/2024
 @version 1.0

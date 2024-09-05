@@ -38,7 +38,7 @@ Static Function fFormaAnt()
     Local bBloco    := {|| }
     Local aDados    := {}
     */
-
+Return
 
 Static Function fFormaNov()
     Local cNome     AS Character

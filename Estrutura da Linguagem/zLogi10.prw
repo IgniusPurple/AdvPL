@@ -14,6 +14,11 @@ User Function zLogi10()
     //Operador := 
     cNome := "Matheus"
     cNome := cNome + " Cavalcante"
+    // Alert(cNome)
+
+    //Operador ;
+    cNome := "Matheus " +;
+    " Cavalcante"
     Alert(cNome)
 
     RestArea(aArea)

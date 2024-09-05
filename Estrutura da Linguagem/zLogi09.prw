@@ -1,7 +1,7 @@
 //Bibliotecas
 #Include "Totvs.ch"
 
-/*/{Protheus.doc} zLogi08
+/*/{Protheus.doc} zLogi09
 Demonstracao de arrays multidimensional em AdvPL
 @author Matheus
 @since 03/07/2024

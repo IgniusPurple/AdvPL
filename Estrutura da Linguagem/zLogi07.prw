@@ -38,4 +38,23 @@ Static Function fFormaAnt()
     Local bBloco    := {|| }
     Local aDados    := {}
     */
+
+
+Static Function fFormaNov()
+    Local cNome     AS Character
+
+    cNome := "Matheus"
+
+    Alert(cNome)
+
+    /*
+    Local cNome     AS Character
+    Local nIdadde   AS Numeric
+    Local dDataNasc AS Date
+    Local lCurso    AS Logical
+    Local oFont     AS Object
+    Local bBloco    AS CodeBlock
+    Local aDados    AS Array
+    */
+
 Return 
